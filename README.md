@@ -1,4 +1,4 @@
-# [Blogable](https://myblogable.pages.dev/)
+# [Blogable](https://myblogable.pages.dev/) Centralize ranking blog and product on our own
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
